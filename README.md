@@ -1,4 +1,4 @@
-# My-game_Unification-of-Russian-lands
+# Knyaz
 
 ## 1. Идея
 
